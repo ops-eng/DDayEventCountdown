@@ -1,4 +1,4 @@
-# DDayEventCountdown
+# DDay Event Countdown
 ## Your Events Countdown to post in Social Media
 
 ### DDay Event Countdown helps you create aesthetic countdown cards for the moments that matter.
